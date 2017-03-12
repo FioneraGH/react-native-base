@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/489156cadf4978ee6289149efa05607fb84161bf/react-native/index.d.ts",
+    "raw": "registry:dt/react-native#0.42.0+20170311002323",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/489156cadf4978ee6289149efa05607fb84161bf/react-native/index.d.ts"
+  }
+}
